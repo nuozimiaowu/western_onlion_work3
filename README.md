@@ -1,0 +1,2 @@
+# western_onlion_work3
+关于数据库的学习，这个项目中主要使用了jdbc，同时再项目中学习了事务，调用api等问题，是对于数据库的基础学习。下一步要学习mybatis和mybatisplus等内容。
