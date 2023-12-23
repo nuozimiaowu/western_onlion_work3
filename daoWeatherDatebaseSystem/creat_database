@@ -1,0 +1,10 @@
+create table weather_predict.weather
+(
+    id         int auto_increment primary key,
+    city_id    varchar(20) not null,
+    city_daily int         not null,
+    fx_date    varchar(20) not null,
+    temp_max   varchar(20) not null,
+    temp_min   varchar(20) not null,
+    text_day   varchar(20) not null
+);
